@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="771af267-c437-4e7c-bbd6-cf546da909cd" name="Changes" comment="Finish Java Calculator">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ClothingItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ClothingSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Shirt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalcHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/CalcHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Dialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Main.java" afterDir="false" />
+    <list default="true" id="771af267-c437-4e7c-bbd6-cf546da909cd" name="Changes" comment="Finish Java Course">
+      <change beforePath="$PROJECT_DIR$/src/model/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +65,7 @@
       <updated>1664586022079</updated>
       <workItem from="1664586023764" duration="6674000" />
       <workItem from="1664666109073" duration="6182000" />
-      <workItem from="1664809252412" duration="3891000" />
+      <workItem from="1664809252412" duration="4227000" />
     </task>
     <task id="LOCAL-00001" summary="Finish Java Calculator">
       <created>1664591211066</created>
@@ -82,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664591211066</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finish Java Course">
+      <created>1664816448882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664816448882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finish Java Course">
+      <created>1664816688964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664816688964</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +107,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finish Java Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish Java Calculator" />
+    <MESSAGE value="Finish Java Course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Java Course" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
