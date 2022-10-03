@@ -19,6 +19,7 @@ public class Main {
         details.add("tie");
         details.add("short");
         details.add("belly");
+
         System.out.println(details.get(2));
         // Maps são valores com chave
         Map<String, ClothingItem> items = new HashMap<>();
